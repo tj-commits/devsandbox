@@ -87,9 +87,9 @@ function App() {
       <div className="pane top-pane">
         <div className="links-and-actions">
           
-    <div className="link">
+    {/* <div className="link">
     <a className="meta-link" href="https://www.rafdo.rf.gd/devsandbox">About DevSandbox</a>
-</div><div className="action">
+</div>*/}<div className="action">
     <button className="meta-action" onClick={resetProject}>Reset Project</button>
 </div>
         </div>
